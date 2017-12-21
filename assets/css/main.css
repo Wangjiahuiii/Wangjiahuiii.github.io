@@ -40,7 +40,7 @@ body{
 {
 		.main{
 			height: 100vh;
-			overflow: hidden;
+			//overflow: hidden;
 		}
 
 		.img-rabbit{
@@ -149,7 +149,7 @@ footer{
 	height:0;
 	line-height:0;
 	font-size:0;
-	overflow:auto;
+	//overflow:auto;
 }
 .btn-group-vertical{
     font-family: "Josefin Sans";    
