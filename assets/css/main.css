@@ -149,7 +149,7 @@ footer{
 	height:0;
 	line-height:0;
 	font-size:0;
-	overflow:hidden;
+	overflow:auto;
 }
 .btn-group-vertical{
     font-family: "Josefin Sans";    
