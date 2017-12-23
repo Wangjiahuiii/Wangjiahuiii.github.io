@@ -39,7 +39,7 @@ body{
 @media (min-width: 778px)
 {
 		.main{
-			height: 100vh;
+			height: auto;
 			//overflow: hidden;
 		}
 
@@ -251,7 +251,7 @@ footer{
 
 .item{
 	
-	background-color: #313131;
+	background-color: #ffffff;
 	color: #f9f9f9;
 }
 
