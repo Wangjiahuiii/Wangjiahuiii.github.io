@@ -105,37 +105,46 @@
 			    <p class='subtitle'>通用容器div</p>
                         <p class="info">不同于article、section、aside、nav，div是一个没有任何语义的容器。用div可以为其添加CSS样式或JavaScript效果。在HTML中，div是块级无语容器，而与之对应的是短语的无语容器span。</p>
 			
-			    <p class='subtitle'>其他</p>
-                        <p class="info">
-				标题：<h1><h2><h3><h4><h5><h6>显示在页面上字体按顺序由大到小
-			        段落：<p>
-			        换行：<br>
+			    <p class='subtitle'>段落 p</p>
+                        <p class="info">毫不奇怪，p是最常用到的HTML元素之一</p>
+			    
+			    <p class='subtitle'>作者联系信息 address</p>
+                        <p class="info">address是其最近的外层结构（article元素或body）的作者信息，且它只能包含作者的联系信息，不能包含其他内容。此外，HTML5禁止在address里包含以下元素：h1~h6、article、address、aside、footer、header、hgroup、nav和section。</p>
+			    
+			    <p class='subtitle'>图 figure</p>
+                        <p class="info">figure元素可以包含多个内容块，但只允许有一个figcaption，且figcaption必须与其他内容一起包含在figure里面，不能单独出现在其他位置，它必须是figure的第一个或最后一个元素。</p>
+			    
+			    <p class='subtitle'>重要或强调文本 strong & em</p>
+                        <p class="info">strong表示重要的文本，em表示强调。根据需要，这两个文本可以单独使用，或者一起使用，甚至同一个标签可以嵌套使用。</p>
+			    
+			    <p class='subtitle'>引述文本 blockquote & q</p>
+                        <p class="info">bolckquote和q用以标记引述的文本。引述块级文本使用blockquote，引述行内文本使用q。</p>
+			    
+			    <p class='subtitle'>突出显示文本mark</p>
+                        <p class="info">mark最常见的使用场合是在搜索结果页面，对搜索词进行突出显示。
 
-分割线：<hr />
+对于某段引述，如果作者在原来的格式中没有对其进行突出显示，可以用mark对它进行突出显示。</p>
+			    
+			    <p class='subtitle'>解释缩写词abbr</p>
+                        <p class="info">当缩写词有title属性时，Firefox和Opera会添加虚线下划线引起注意。当鼠标移至缩写词上，该元素title属性的内容就会显示在一个提示框里。
 
-引用短的句子：<q></q>   显示在页面中就是将句子加了一个“双引号”，但是不要只为了需要双引号而是用<q>
+</p>
+			    
+			    <p class='subtitle'>创建指向另一个页面的链接</p>
+                        <p class="info">href指hypertext reference（超文本引用）。
 
-引用大块的句子或段落：<blockquote cite=""></blockquote>      显示在页面是整体缩进,但是不要只为了需要缩进而使用<blockquote>,cite属性值是引用的出处
+当访问者指向链接（在大多数浏览器中，默认显示为带下划线的蓝色字体）时，目标URL会显示在状态栏中。
 
-定义作品标题：<cite></cite>
+HTML5的块级链接
 
-粗体：<b></b>
+HTML5允许在链接内包含除交互式的内容（如其他链接、audio、video、表单元素、iframe等）外的其他任何类型的元素或元素组（如段落、列表、整篇文章、区块等）。
 
-斜体：<i></i>
+但是也要避免在链接中放入过多的内容（如一整篇文章），制作精巧是块级链接是值得推荐的。
 
-强调：<em></em>              显示为斜体，不要为了使用斜体而是用em
-
-强调：<strong></strong>    比em更强烈的强调，显示为粗体,不要为了使用粗体而是用strong
-
-计算机代码：<code></code>
-
-保留：<pre></pre>     可以保留文档中的空格、换行和TAB
-
-上标：<sup></sup>
-
-下标：<sub></sub>
-
-无意义标签：<div></div>,可作为容器，用来布局；<span></span>,可以用来和css配合改变文字的样式</p>
+不要让链接的标签过长，应避免使用“点击此处”作为标签。</p>
+			    
+			    <p class='subtitle'>锚anchor</p>
+                        <p class="info">如果需要激活一个链接跳至网页的特定区域，可以创建一个锚，并在连接中引用该锚。</p>
 			    
 			    <p class="info">"<a href="https://www.certifiedchinesetranslation.com/openaccess/w3c-glossary-sc.html" >【W3C 词汇与字典】</a>"</p>  
 			</div>
