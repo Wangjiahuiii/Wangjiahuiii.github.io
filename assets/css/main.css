@@ -91,6 +91,12 @@ p{
 	
 }
 
+.b {
+    text-indent: 2em;
+    font-family: "Crimson";
+    line-height: 28px;
+}
+
 .page-title{
 	text-transform: uppercase;
 	font-family: 'Josefin Sans';
@@ -331,8 +337,4 @@ footer{
     /* margin-bottom: 1px; */
     padding-right: 40px;
 
-p.b {
-    text-indent: 2em;
-    font-family: "Crimson";
-    line-height: 28px;
-}
+
