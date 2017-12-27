@@ -254,6 +254,7 @@ footer{
     text-indent: 2em;
     font-family: "Crimson";
     line-height: 28px;
+    font-style: italic;
 }
 
 #watermark{
@@ -332,13 +333,12 @@ footer{
 }
 
 .experiencetitle {
-    font-style: italic;
-    font-weight: 600;
+    font-weight: 900;
     font-size: 20px;
     color: #3b3b3b;
     line-height: 28px;
     font-family: "Crimson";
-    margin-top: 15px;
-    /* margin-bottom: 1px; */
+    margin-top: 25px;
+    margin-bottom: 20px;
     padding-right: 40px;
-
+}
