@@ -91,12 +91,6 @@ p{
 	
 }
 
-.b {
-    text-indent: 2em;
-    font-family: "Crimson";
-    line-height: 28px;
-}
-
 .page-title{
 	text-transform: uppercase;
 	font-family: 'Josefin Sans';
@@ -326,7 +320,7 @@ footer{
 	display: block;
 }
 
-.atitle {
+.experiencetitle {
     font-style: italic;
     font-weight: 600;
     font-size: 20px;
@@ -337,4 +331,8 @@ footer{
     /* margin-bottom: 1px; */
     padding-right: 40px;
 
-
+.experience {
+    text-indent: 2em;
+    font-family: "Crimson";
+    line-height: 28px;
+}
