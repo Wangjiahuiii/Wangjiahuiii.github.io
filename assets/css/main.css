@@ -103,6 +103,11 @@ p{
 	font-size: 12px;
 }
 
+.logo img {
+    vertical-align: middle;
+    width: 150px;
+}
+
 .logo h4{
 	font-family: 'Josefin Sans';
 }
