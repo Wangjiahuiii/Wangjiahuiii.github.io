@@ -245,6 +245,12 @@ footer{
 	top: -5px;
 }
 
+.experience {
+    text-indent: 2em;
+    font-family: "Crimson";
+    line-height: 28px;
+}
+
 #watermark{
 	position: relative;
 }
@@ -331,8 +337,3 @@ footer{
     /* margin-bottom: 1px; */
     padding-right: 40px;
 
-#watermark .experience {
-    text-indent: 2em;
-    font-family: "Crimson";
-    line-height: 28px;
-}
