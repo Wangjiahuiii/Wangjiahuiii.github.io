@@ -357,6 +357,7 @@ p.visualizationtext {
     color: #666666;
     display: block;
     padding-bottom: 30px;
+    text-align: center;
 }
 
 p.visualizationtitle {
@@ -369,3 +370,4 @@ p.visualizationtitle {
     margin-top: 15px;
     margin-bottom: 1px;
     padding-right: 40px;
+    text-align: center;
