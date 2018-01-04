@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+.logo:hover{
+	transform: skew(30deg,10deg)
+}
+
+.svg_insert{
+	font-style: italic;
+}
+
+.svg_opt{
+	font-style: italic;
+}
+
+.desc{
+	font-style: italic;
+}
