@@ -367,8 +367,7 @@ p.visualizationtext {
 }
 
 p.visualizationtitle {
-    font-style: italic; */
-    font-weight: 600;
+    /* font-style: italic; */
     font-size: 30px;
     color: #3b3b3b;
     line-height: 28px;
@@ -376,4 +375,4 @@ p.visualizationtitle {
     margin-top: 15px;
     margin-bottom: 1px;
     /* padding-right: 40px; */
-    text-align: center;
+    /* text-align: center; */
