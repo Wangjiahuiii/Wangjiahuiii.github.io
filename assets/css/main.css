@@ -40,7 +40,12 @@ body{
 	background-color: #bb9e7d;
 	}
 
-
+@media (min-width: 768px)
+bootstrap.min.css:5
+.col-sm-12 {
+    width: 100%;
+    color: #ad987ccc;
+	
 @media (min-width: 778px)
 {
 		.main{
