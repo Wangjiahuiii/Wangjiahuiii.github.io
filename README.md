@@ -2,7 +2,7 @@
 
 Start on Dec 20, 2017
 
-但實際上它是我本學期所學的的网页制作与设计&信息可视化課程的期末项目
+這個是中山大學南方學院網絡與新媒體專業培養方案核心課程學期作品，由廖漢騰副教授指導。
 > https://wangjiahuiii.github.io/Wangjiahuiii.github.io-finalproject/
 
 雖然還有很多不足，但是我的確花了很多精力與時間努力把它做好。^ ^
